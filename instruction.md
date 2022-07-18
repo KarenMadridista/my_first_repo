@@ -8,10 +8,10 @@
 
 ## Списки
 
-1. Лист олин
+1. Лист один
 2. Лист два
 3. Лист три
 
-1. List one
-2. List two
-3. list three
+* List one
+* List two
+* list three
